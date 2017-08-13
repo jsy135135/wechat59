@@ -1,5 +1,6 @@
 <?php
 //git备份操作
+//git上传远程仓库
 //项目入口文件
 require './wechat.class.php';
 //实列化
